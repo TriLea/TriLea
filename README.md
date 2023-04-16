@@ -1,5 +1,4 @@
 <div align="center">
-  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header)
 
 ### Hi there 👋 welcome to my github!
@@ -21,5 +20,5 @@
 <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white">
 >
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
 </div>

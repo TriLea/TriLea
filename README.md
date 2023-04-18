@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white">
->
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
 </div>

@@ -1,5 +1,6 @@
 <div align="center">
 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header)
 
 <img src="./text.png" width="60%" height="60%">
@@ -21,6 +22,8 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<br><br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
 </div>

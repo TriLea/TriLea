@@ -3,7 +3,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header)
 
-<img src="./text2.png" width="60%" height="60%">
+<img src="./text3.png" width="60%" height="60%">
+<br>
 <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -20,10 +21,11 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <br><br>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+<img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="110">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
 </div>
